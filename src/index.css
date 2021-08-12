@@ -1,0 +1,12 @@
+body {
+  /* background: linear-gradient(
+    90deg,
+    rgba(107, 166, 222, 1) 0%,
+    rgba(65, 251, 149, 1) 100%
+  ); */
+
+  background-color: #292929;
+
+  color: #eee;
+  font-family: "Nunito", sans-serif;
+}
